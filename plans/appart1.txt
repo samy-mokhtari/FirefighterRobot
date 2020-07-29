@@ -1,0 +1,31 @@
+45:30
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxDxxxxxxx
+x                x        x                 x
+x                x        x                 x
+x                x        x                 x
+x                x        x                 x
+x                x                          x
+x                x                          x
+x                x        x                 x
+x                x        x                 x
+xxxxxxxxxxxx     x     1  xxxxxxxxxxxxxxxxxxx
+x                x    121 x                 x
+x                    12321x                 x
+x                     121                   x
+x                      1                    x
+x                                           x
+x                x        x                 x
+x                x        x                 x
+x                x        x        E        x
+xxxxxxxxxxxxxxxxxx        xxxxxxxxxxxxxxxxxxx
+x                x        x                 x
+x                x        x                 x
+x                x        x                 x
+x                                           x
+x                                           x
+x                                           x
+x         xxxxxxxx        x                 x
+x         x               x                 x
+x         x               x                 x
+x         x               x                 x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
